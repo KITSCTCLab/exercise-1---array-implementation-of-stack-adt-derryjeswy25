@@ -29,6 +29,7 @@ class Stack:
         # Write code here
         for i in range(self.top+1):
             print(self.items[i])
+            
 
            
 # Do not change the following code
